@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4E8F1E3E-1949-46EA-8FAE-BF786B5952BA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Paint</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>688E9799761215128A726C2C49A4A679CC70972D</key>
+		<string>https://bitbucket.org/HassanShehzad/shafieldapp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Paint.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>688E9799761215128A726C2C49A4A679CC70972D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/HassanShehzad/shafieldapp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>688E9799761215128A726C2C49A4A679CC70972D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>688E9799761215128A726C2C49A4A679CC70972D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>shafieldapp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
